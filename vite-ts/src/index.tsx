@@ -1,3 +1,4 @@
+import '@vanillajsx/vjsx'
 import App from './components/App'
 
 document.querySelector('app').appendChild(<App />)
