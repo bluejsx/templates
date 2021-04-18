@@ -1,0 +1,17 @@
+{
+  "name": "vjsx-temp-vite-ts",
+  "version": "1.0.0",
+  "description": "vanilla.jsx vitejs template",
+  "main": "vite.config.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "author": "Momijiichigo",
+  "license": "MIT",
+  "devDependencies": {
+    "@vanillajsx/vjsx": "^0.0.1",
+    "vite": "^2.1.5"
+  }
+}
