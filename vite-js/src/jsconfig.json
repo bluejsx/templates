@@ -1,6 +1,7 @@
 {
   "compilerOptions": {
     "module": "ESNext",
+    "lib": ["dom", "esnext"],
     "moduleResolution": "node",
     "allowSyntheticDefaultImports": true,
     "jsx": "preserve",
