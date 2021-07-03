@@ -1,3 +1,3 @@
 import App from './components/App'
 
-document.querySelector('app').appendChild(<App />)
+document.querySelector('#app').appendChild(<App />)
