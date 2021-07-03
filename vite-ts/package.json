@@ -11,7 +11,7 @@
   "author": "Momijiichigo",
   "license": "MIT",
   "devDependencies": {
-    "@vanillajsx/vjsx": "latest",
+    "bluejsx": "latest",
     "vite": "^2.1.5"
   }
 }

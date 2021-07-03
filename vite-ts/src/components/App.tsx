@@ -1,4 +1,4 @@
-import '@vanillajsx/vjsx'
+import 'bluejsx'
 
 const App = () =>(<div> Hello, World! </div>)
 
