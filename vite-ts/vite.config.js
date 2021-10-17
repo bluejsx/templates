@@ -1,8 +1,14 @@
-export default {
-  esbuild: {
-    jsxFactory: 'Blue.r',
-    jsxFragment: 'Blue.Fragment',
-    jsxInject: `import Blue from 'bluejsx'`
+import withBlueJSX from 'vite-with-bluejsx'
+
+export default withBlueJSX({
+  bluejsx: {
+    /**
+     * HMR is currently experimental. 
+     * Set false for always reload the page in dev mode.
+     */
+    hmr: true
   },
-  base: './'
-}
+  plugins: [],
+  base: './',
+  assetsInclude: 'public/*'
+})

@@ -12,6 +12,7 @@
   "license": "",
   "devDependencies": {
     "bluejsx": "latest",
+    "github-markdown-css": "^5.0.0",
     "vite": "latest",
     "vite-with-bluejsx": "latest"
   }

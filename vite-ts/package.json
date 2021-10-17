@@ -1,17 +1,18 @@
 {
   "name": "vjsx-temp-vite-ts",
   "version": "1.0.0",
-  "description": "vanilla.jsx vitejs template",
+  "description": "BlueJSX vitejs template",
   "main": "vite.config.js",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "serve": "vite preview"
   },
-  "author": "Momijiichigo",
-  "license": "MIT",
+  "author": "",
+  "license": "",
   "devDependencies": {
     "bluejsx": "latest",
-    "vite": "^2.1.5"
+    "vite": "latest",
+    "vite-with-bluejsx": "latest"
   }
 }

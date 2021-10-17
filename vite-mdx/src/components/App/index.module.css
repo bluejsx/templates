@@ -1,0 +1,9 @@
+.app_container {
+  position: absolute;
+  width: 40em;
+  border: gray 1px;
+  border-radius: 1em;
+  inset: 0;
+  margin: auto;
+  padding: 2em;
+}
