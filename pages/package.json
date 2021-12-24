@@ -1,0 +1,22 @@
+{
+  "name": "vjsx-temp-vite-ts",
+  "version": "1.0.0",
+  "description": "BlueJSX vitejs template",
+  "main": "vite.config.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "author": "",
+  "license": "",
+  "devDependencies": {
+    "bluejsx": "latest",
+    "vite": "latest",
+    "vite-with-blue-pages": "latest"
+  },
+  "dependencies": {
+    "github-markdown-css": "^5.1.0",
+    "sass": "^1.45.1"
+  }
+}

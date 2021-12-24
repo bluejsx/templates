@@ -1,0 +1,21 @@
+:root {
+  --header-hight: 4rem;
+}
+header {
+  color: white;
+  position: fixed;
+  width: 100vw;
+  height: var(--header-hight);
+  top:0px;
+  left: 0px;
+  font-size: calc( var(--header-hight) * 0.66);
+  background-color: #16283ae0;
+  -webkit-backdrop-filter: blur(4px);
+  backdrop-filter: blur(4px);
+  user-select: none;
+  z-index: 10000;
+  .title {
+    display: inline-block;
+    vertical-align: middle;
+  }
+}
