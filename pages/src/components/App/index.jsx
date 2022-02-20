@@ -1,5 +1,5 @@
-import { app_container as CLASS_APP_CONTAINER } from './index.module.css'
+import style from './index.module.css'
 export default () =>
-  <div class={CLASS_APP_CONTAINER}>
+  <div class={style.app_container}>
     <h1>Hello, World!</h1>
   </div>
