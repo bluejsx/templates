@@ -15,7 +15,9 @@ header {
   user-select: none;
   z-index: 10000;
   .title {
-    display: inline-block;
-    vertical-align: middle;
+    inset: 0;
+    margin: auto;
+    display: table;
+    font-family: Arial, Helvetica, sans-serif;
   }
 }

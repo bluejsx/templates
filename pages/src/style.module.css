@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  height: 100vh;
+}
+.container {
+  margin: 0;
+  padding: 2em;
+  padding-top: calc(2em + var(--header-hight));
+  min-height: 100vh;
+}
