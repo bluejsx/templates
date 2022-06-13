@@ -1,4 +1,5 @@
 import withPages from 'vite-with-blue-pages'
+import path from 'path'
 
 export default withPages({
   bluejsx: {

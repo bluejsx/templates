@@ -1,4 +1,5 @@
 import withBlueJSX from 'vite-with-bluejsx'
+import path from 'path'
 
 export default withBlueJSX({
   bluejsx: {
