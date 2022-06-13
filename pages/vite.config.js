@@ -10,5 +10,10 @@ export default withPages({
   },
   plugins: [],
   base: '/',
-  assetsInclude: 'public/*'
+  assetsInclude: 'public/*',
+  resolve: {
+    alias: {
+      '@': path.resolve(__dirname, './src'),
+    },
+  }
 })

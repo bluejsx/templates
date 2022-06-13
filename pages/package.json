@@ -12,7 +12,7 @@
   "license": "",
   "devDependencies": {
     "bluejsx": "latest",
-    "vite": "latest",
+    "vite": "^2.9.12",
     "vite-with-blue-pages": "latest"
   },
   "dependencies": {

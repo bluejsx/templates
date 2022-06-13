@@ -13,7 +13,7 @@
   "devDependencies": {
     "bluejsx": "latest",
     "github-markdown-css": "^5.0.0",
-    "vite": "latest",
+    "vite": "^2.9.12",
     "vite-with-bluejsx": "latest"
   }
 }
